@@ -1,4 +1,4 @@
-// Lawrence, Tyson, Chase
+// Authors: Tyson Ringelstetter, Brian Branch, Chase Andersen, see readme.md for Tyson's specific contributions.
 // Group 4
 /*
 Test Data:
