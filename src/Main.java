@@ -44,6 +44,7 @@ public class Main
                     game.startBattleship();
                     incorrectInput = false;
                 }
+				//
                 else
                 {
                     System.out.println("\n" +
